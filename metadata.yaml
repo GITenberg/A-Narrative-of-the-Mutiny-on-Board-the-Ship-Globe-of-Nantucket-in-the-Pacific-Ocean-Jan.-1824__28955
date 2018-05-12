@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33606'
     url: http://www.gutenberg.org/2009/agents/33606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28955#A-Narrative-of-the-Mutiny-on-Board-the-Ship-Globe-of-Nantucket-in-the-Pacific-Ocean-Jan.-1824_
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
 identifiers:
