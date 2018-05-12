@@ -1,0 +1,36 @@
+_repo: A-Narrative-of-the-Mutiny-on-Board-the-Ship-Globe-of-Nantucket-in-the-Pacific-Ocean-Jan.-1824__28955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hussey, Cyrus M.
+    gutenberg_agent_id: '33607'
+    url: http://www.gutenberg.org/2009/agents/33607
+  - agent_name: Lay, William
+    gutenberg_agent_id: '33606'
+    url: http://www.gutenberg.org/2009/agents/33606
+description: ''
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28955'
+  lccn: 01001969
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Globe Mutiny, 1824'
+- !lcsh 'Mili Atoll (Marshall Islands)'
+title: 'A Narrative of the Mutiny, on Board the Ship Globe, of Nantucket, in the Pacific
+  Ocean, Jan. 1824
+
+  And the journal of a residence of two years on the Mulgrave
+
+  Islands; with observations on the manners and customs of
+
+  the inhabitants'
+url: http://www.gutenberg.org/ebooks/28955
